@@ -1,0 +1,27 @@
+#Canister {
+width:400px;
+height:600px;
+background-image:url("image.jpg");
+background-size:cover;
+margin-left:auto;
+margin-right:auto;
+border:2px solid black;
+padding: 20px;
+padding-right: 50px;
+box-shadow: -60px 60px 20px rgba(0, 0, 0, 0.3);
+}
+h1{
+  color:orange;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size:100px;
+  text-align: inherit;
+ margin: auto;
+ line-height: 100px;
+ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+body
+{
+  background-image:url("background.svg");
+  background-size:cover;
+  background-repeat: no-repeat;
+}
